@@ -109,7 +109,7 @@ final class Versions
   'symfony/stopwatch' => 'v5.2.4@b12274acfab9d9850c52583d136a24398cdf1a0c',
   'symfony/string' => 'v5.2.4@4e78d7d47061fa183639927ec40d607973699609',
   'symfony/yaml' => 'v5.2.5@298a08ddda623485208506fcee08817807a251dd',
-  '__root__' => '1.0.0+no-version-set@',
+  '__root__' => 'dev-master@d7ccdd266c3b40447d80e72056806d8af55d4531',
 );
 
     private function __construct()
